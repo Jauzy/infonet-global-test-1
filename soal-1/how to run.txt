@@ -1,0 +1,1 @@
+go to https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_substring and replace the whole script tag with the answer.txt
